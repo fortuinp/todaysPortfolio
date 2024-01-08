@@ -13,9 +13,12 @@
 // import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
-  name: 'HomeView',
-  components: {
-  
+  computed: {
+    jobTitle(){return this.$store.state.jobTitle
+  }
+},
+mounted(){
+  this.$store.dispatch
 }
 }
 </script>

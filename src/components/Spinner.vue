@@ -10,7 +10,7 @@
         name:"spinnerComp",
         data() {
             return {
-                currYear:new Date().getFullYear
+               
             }
         }
     }
