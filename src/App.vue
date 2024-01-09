@@ -3,7 +3,10 @@
 
   <main class="container-fluid">
     <NavBar/>
+
     <router-view/>
+    
+    
     <Footer />
   </main>
 </template>

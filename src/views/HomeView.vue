@@ -1,6 +1,5 @@
 <template>
-  <div class="home">
-    <NavBar />
+  <div class="home vh-100">
     <!-- <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
@@ -14,8 +13,9 @@
 
 export default {
   computed: {
-    jobTitle(){return this.$store.state.jobTitle
-  }
+    jobTitle(){
+      return this.$store.state.jobTitle
+    }
 },
 mounted(){
   this.$store.dispatch

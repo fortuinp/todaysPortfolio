@@ -1,5 +1,6 @@
 import { createStore } from 'vuex'
 const dataUrl= 'https://fortuinp.github.io/todayPortfolioData/data/'
+
 export default createStore({
   state: {
     jobTitle:null,
@@ -17,6 +18,7 @@ export default createStore({
       state.jobTitle=value
     },
     setAbout(state,value){
+      console.log(value);
       state.about=value
     },
     setEducation(state,value){
@@ -37,10 +39,18 @@ export default createStore({
     async getAbout(context){
       let aboutData= await fetch(dataUrl);
       let response= await aboutData.json();
-      console.log('Func');
       console.log(response.about);
-      context.commit("setAbout",response.about);
-    }
+      context.commit("setAbout", response.about);
+    },
+    async getTestimonials(context){
+      let testimonialsData= await fetch(dataUrl);
+      let testresponse= await testimonialsData.json();
+      console.log(testresponse.testimonials);
+      context.commit("setTestimonials", testresponse.testimonials);
+    },
+
+
+
   },
   modules: {
   }
