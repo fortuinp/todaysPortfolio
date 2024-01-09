@@ -1,6 +1,6 @@
 <template>
    <div class="container">
-     <div class="row">
+     <div class="projects vh-100">
        <h2 class="display-2">
         Projects
        </h2>
