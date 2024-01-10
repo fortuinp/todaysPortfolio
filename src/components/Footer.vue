@@ -1,7 +1,7 @@
 <template>
-    <div class="container">
+    <div class="bg-dark pt-2">
       <div class="row" id="foot">
-       <p class="lead"> Pinda Fortuin &copy;
+       <p class="lead "> Pinda Fortuin &copy;
        <span>{{ currYear }}</span></p>
       </div>
     </div>
