@@ -1,18 +1,14 @@
 <template>
       <main class="container-fluid vh-100" id="contact">
 
-<section class=" container mb-4">
+<section class=" container mb-4" >
 
-  <h2 class="h1-responsive font-weight-bold  my-4 text-start mx-5">Contact us</h2>
+  <h2 class="h1-responsive font-weight-bold mb-4 my-4 text-centre mx-5">Contact us</h2>
 
   <div class="row">
-
-
     <div class="col-md-9 mb-md-0 mb-5">
-     
-
-        <div class="row">
-          <div class="col-md-6">
+        <div class="row mb-4">
+          <div class="col-md-6 mb-2">
             <div class="md-form mb-0">
               <input type="text" id="name" name="name" class="form-control">
               <label for="name" class="">Your name</label>
@@ -29,7 +25,7 @@
 
         </div>
 
-        <div class="row">
+        <div class="row mb-4">
           <div class="col-md-12">
             <div class="md-form mb-0">
               <input type="text" id="subject" name="subject" class="form-control">
@@ -47,21 +43,20 @@
                 class="form-control md-textarea"></textarea>
               <label for="message">Your message</label>
             </div>
-
           </div>
         </div>
 
 
  
 
-      <div class="text-center text-md-left">
+      <div class="text-center text-md-left mt-4">
         <a id="btncontact" class="btn btn-secondary"
           onclick="document.getElementById('contact-form').submit();">Send</a>
       </div>
       <div class="status"></div>
     </div>
 
-    <div class="col-md-3 text-center">
+    <div class="col-md-3 text-center mt-4" id="text">
       <ul class="list-unstyled mb-0">
         <li><i class="fas fa-map-marker-alt fa-2x"></i>
           <p>7 Dorr Street, Cape Town, SA</p>
@@ -74,13 +69,15 @@
         <li><i class="fas fa-envelope mt-4 fa-2x"></i>
           <p>fortuinpinda@gmail.com</p>
         </li>
-        <li>
+       
+       
+          
           <a target="_blank" href="https://www.linkedin.com/in/pinda-fortuin"><i id="icon"
-              class="bi bi-linkedin"></i></a>
-          <a target="_blank" href="https://github.com/fortuinp"><i id="icon" class="bi bi-github"></i></a>
+              class="bi bi-linkedin mx-2" ></i></a>
 
-
-        </li>
+          <a target="_blank" href="https://github.com/fortuinp"><i id="icon" class="bi bi-github mx-2"></i></a>
+     
+  
       </ul>
     </div>
 
@@ -99,7 +96,21 @@
 </script>
 
 <style scoped>
-
+#text{
+  color: black;
+}
+#contact{
+  color: #A5856C;
+  font-weight: bolder;
+}
+label{
+  color:#A5856C ;
+}
+#icon{
+    font-size: 1.5rem;
+     color: #b6b6b6;
+    /* color: #692525; */
+  }
 </style>
 
 
