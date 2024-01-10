@@ -1,7 +1,21 @@
 <template>
-  <div class="home vh-100">
-    <!-- <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/> -->
+  <div class="home vh-100 mt-5">
+    <div class="row">
+        <img src="https://drive.google.com/uc?id=13D7AS82I-LlC3OfHD6FEDfCrGkpmCN4b" alt="picture" class="mx-auto mb-5 rounded-circle" >
+    </div>
+    <div class="row">
+        <h1>Pinda Fortuin</h1>
+        <h2>aspiring web developer</h2>
+    </div>
+    <div class="row mt-2 mb-2 mx-auto">
+      <li>
+              <a target="_blank" href="https://www.linkedin.com/in/pinda-fortuin" ><i id="icon"
+                  class="bi bi-linkedin mx-2"></i></a>
+              <a target="_blank" href="https://github.com/fortuinp"><i id="icon" class="bi bi-github"></i></a>
+
+
+            </li>
+    </div>
   </div>
 </template>
 
@@ -22,3 +36,28 @@ mounted(){
 }
 }
 </script>
+
+<style scoped>
+img[alt='picture']{
+    width: 15rem;
+    aspect-ratio: 1/1;
+    justify-content: center;
+   
+  }
+  h1{
+    color: #B6B6B6;
+    font-size: 3rem;
+  }
+  h2{
+    /* color: #A5856C; */
+    color: black;
+    font-size: 1.5rem;
+   
+  }
+
+  #icon{
+    font-size: 1.5rem;
+     color: #A5856C;
+    /* color: #692525; */
+  }
+</style>

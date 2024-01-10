@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
 /* from app vue style */
 #app {
@@ -13,19 +14,25 @@
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #2c3e50;
+    background: linear-gradient(109.6deg, rgb(0, 0, 0) 11.2%, rgb(11, 132, 145) 91.1%);
+
   }
   
-  nav {
+
+  
+  #nav {
     padding: 30px;
+    color: beige;
   }
   
-  nav a {
+  #nav a {
     font-weight: bold;
-    color: #2c3e50;
+    font-size: x-large;
+    color: #B6B6B6
   }
   
-  nav a.router-link-exact-active {
-    color: #42b983;
+  #nav a.router-link-exact-active {
+    color: #A5856C;
   }
   img[alt='logo']{
     width: 5rem;

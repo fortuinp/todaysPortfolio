@@ -1,7 +1,7 @@
 <template>
     <div class="container">
-      <div class="row">
-       <p class="lead"> My portfolio &copy;
+      <div class="row" id="foot">
+       <p class="lead"> Pinda Fortuin &copy;
        <span>{{ currYear }}</span></p>
       </div>
     </div>
@@ -19,5 +19,7 @@
 </script>
 
 <style scoped>
-
+#foot{
+    color:#b6b6b6 ;
+}
 </style>
