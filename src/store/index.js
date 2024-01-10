@@ -3,9 +3,10 @@ const dataUrl= 'https://fortuinp.github.io/todayPortfolioData/data/'
 
 export default createStore({
   state: {
-    jobTitle:null,
+    
     about:null,
     education:null,
+    experience:null,
     skills:null,
     testimonials:null,
     projects:null,
@@ -14,9 +15,7 @@ export default createStore({
   },
   mutations: {
 
-    setJobTitle(state,value){
-      state.jobTitle=value
-    },
+   
     setAbout(state,value){
       console.log(value);
       state.about=value
@@ -26,6 +25,9 @@ export default createStore({
     },
     setSkills(state,value){
       state.skills=value
+    },
+    setExperience(state,value){
+      state.experience=value
     },
     setProjects(state,value){
       state.projects=value
@@ -48,8 +50,32 @@ export default createStore({
       console.log(testresponse.testimonials);
       context.commit("setTestimonials", testresponse.testimonials);
     },
+    async getProjects(context){
+      let projectsData= await fetch(dataUrl);
+      let proresponse= await projectsData.json();
+      console.log(proresponse.testimonials);
+      context.commit("setProjects", proresponse.projects);
+    },
+    async getEducation(context){
+      let educationData= await fetch(dataUrl);
+      let proresponse= await educationData.json();
+      console.log(proresponse.testimonials);
+      context.commit("setEducation", proresponse.education);
+    },
+    async getExperience(context){
+      let experienceData= await fetch(dataUrl);
+      let proresponse= await experienceData.json();
+      console.log(proresponse.testimonials);
+      context.commit("setExperience", proresponse.experience);
+    },
+    
 
-
+async getSkills(context){
+      let skillsData= await fetch(dataUrl);
+      let proresponse= await skillsData.json();
+      console.log(proresponse.testimonials);
+      context.commit("setSkills", proresponse.skills);
+    },
 
   },
   modules: {

@@ -3,11 +3,11 @@
      <div class="row">
       <div class="card" style="width: 18rem;" v-for="testimonials in Testimonials" :key="testimonials"> 
         <img :src=" testimonials.profile" class="card-img-top" alt="...">
-       <div class="card-body">
+        <div class="card-body">
         <h5 class="card-title">{{ testimonials.fullname }}</h5>
          <p class="card-text">{{ testimonials.quotes }}</p>
    
-      </div>
+        </div>
        </div>
      </div>
     </div>
