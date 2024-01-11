@@ -1,7 +1,7 @@
 <template>
   <div class="home vh-100 mt-5">
     <div class="row">
-        <img src="https://drive.google.com/uc?id=13D7AS82I-LlC3OfHD6FEDfCrGkpmCN4b" alt="picture" class="mx-auto mb-5 rounded-circle" >
+        <img src="https://lh3.google.com/u/0/d/13D7AS82I-LlC3OfHD6FEDfCrGkpmCN4b=w2000-h7252-iv1" alt="picture" class="mx-auto mb-5 rounded-circle" >
     </div>
     <div class="row">
         <h1>Pinda Fortuin</h1>
@@ -52,6 +52,7 @@ img[alt='picture']{
     /* color: #A5856C; */
     color: black;
     font-size: 1.5rem;
+    font-weight: bolder;
    
   }
 
