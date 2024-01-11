@@ -9,7 +9,7 @@
 
         <div class="row my-auto">
         <div class="card mb-2 mx-auto" id="educard" style="width: 18rem;" v-for="education in Education" :key="education"> 
-        <img :src=" education.image" class="card-img-top mx-auto" alt="photo">
+        <img :src=" education.image" class="card-img-top mx-auto" loading="lazy" alt="photo">
         <div class="card-body">
         <h5 class="card-title">{{ education.place }}</h5>
         <h5 class="card-title">{{ education.year }}</h5>

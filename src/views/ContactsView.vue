@@ -3,7 +3,7 @@
 
 <section class=" container mb-4" >
 
-  <h2 class="h1-responsive font-weight-bold mb-4 my-4 text-centre mx-5">Contact us</h2>
+  <h2 class="h1-responsive font-weight-bold mb-4 my-4 text-centre mx-auto animate__animated animate__flip " >Reach me</h2>
 
   <div class="row">
     <div class="col-md-9 mb-md-0 mb-5">
@@ -102,6 +102,7 @@
 #contact{
   color: #A5856C;
   font-weight: bolder;
+  font-size: large;
 }
 label{
   color:#A5856C ;
