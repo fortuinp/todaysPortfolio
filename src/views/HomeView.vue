@@ -1,11 +1,11 @@
 <template>
   <div class="home vh-100 mt-5">
     <div class="row">
-        <img src="https://lh3.google.com/u/0/d/13D7AS82I-LlC3OfHD6FEDfCrGkpmCN4b=w2000-h7252-iv1" alt="picture" class="mx-auto mb-5 rounded-circle" >
+        <img src="https://lh3.google.com/u/0/d/13D7AS82I-LlC3OfHD6FEDfCrGkpmCN4b=w2000-h7252-iv1" loading="lazy" alt="picture" class="mx-auto mb-5 rounded-circle" >
     </div>
     <div class="row">
-        <h1>Pinda Fortuin</h1>
-        <h2>aspiring web developer</h2>
+        <h1 class="animate__animated animate__slideInLeft">Pinda Fortuin</h1>
+        <h2 class="animate__animated animate__slideInRight ">aspiring web developer</h2>
     </div>
     <div class="row mt-2 mb-2 mx-auto">
       <li>

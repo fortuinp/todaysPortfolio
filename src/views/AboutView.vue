@@ -10,7 +10,7 @@
    </p> -->
    <div class="row mt-4">
       <div class="col-6 overlappa text-end mt-4">
-         <img src="https://lh3.google.com/u/0/d/1_ZQ3B_RSboy2RQZnBF0cIlyZDV-6x09A=w2000-h7184-iv2" alt="about" >
+         <img src="https://lh3.google.com/u/0/d/1_ZQ3B_RSboy2RQZnBF0cIlyZDV-6x09A=w2000-h7184-iv2" loading="lazy" alt="about" >
          
       </div>
       <div class="col-6 para my-auto" id="para">
