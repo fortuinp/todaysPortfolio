@@ -6,7 +6,7 @@
   <h2 class="h1-responsive font-weight-bold mb-4 my-4 text-centre mx-auto animate__animated animate__flip " >Reach me</h2>
 
   <div class="row">
-    <div class="col-md-9 mb-md-0 mb-5">
+    <div class="col-6 md-9 mb-md-0 mb-5">
         <div class="row mb-4">
           <div class="col-md-6 mb-2">
             <div class="md-form mb-0">
