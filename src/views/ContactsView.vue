@@ -6,7 +6,7 @@
   <h2 class="h1-responsive font-weight-bold mb-4 my-4 text-centre mx-auto animate__animated animate__flip " >Reach me</h2>
 
   <div class="row">
-    <div class="col-md-9 mb-md-0 mb-5">
+    <div class="col-7-md-9 mb-md-0 mb-5">
         <div class="row mb-4">
           <div class="col-md-6 mb-2">
             <div class="md-form mb-0">
@@ -56,7 +56,7 @@
       <div class="status"></div>
     </div>
 
-    <div class="col-md-3 text-center mt-4" id="text">
+    <div class="col-5-md-3 text-center mt-4" id="text">
       <ul class="list-unstyled mb-0">
         <li><i class="fas fa-map-marker-alt fa-2x"></i>
           <p>7 Dorr Street, Cape Town, SA</p>
@@ -97,7 +97,7 @@
 
 <style scoped>
 #text{
-  color: black;
+  color: #b6b6b6;
 }
 #contact{
   color: #A5856C;
