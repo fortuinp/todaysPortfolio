@@ -16,16 +16,23 @@
 
             </li>
     </div>
+
+<Spinner/>
+
   </div>
 </template>
-
 <script>
 
 
 // @ is an alias to /src
 // import HelloWorld from '@/components/HelloWorld.vue'
+import Spinner  from '@/components/Spinner.vue';
 
 export default {
+
+  components:{
+    Spinner
+  },
   computed: {
     jobTitle(){
       return this.$store.state.jobTitle

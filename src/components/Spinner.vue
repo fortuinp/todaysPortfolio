@@ -1,16 +1,22 @@
 <template>
-    <div class="container">
-    
-     
+    <div>
+
+        <div class="container">
+        
+            <div class="spinner-border" role="status">
+      <span class="visually-hidden">Loading...</span>
+    </div>
+        </div>
     </div>
 </template>
 
 <script>
     export default {
-        name:"spinnerComp",
+        name:"SpinnerComp",
+
         data() {
             return {
-               
+               loading:true
             }
         }
     }
