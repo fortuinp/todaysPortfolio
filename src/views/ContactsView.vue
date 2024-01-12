@@ -7,6 +7,10 @@
 
   <div class="row">
     <div class="col-7-md-9 mb-md-0 mb-5">
+
+      <form action="https://formspree.io/f/xyyqlwyy" id="contact-form" name="contact-form" 
+            method="POST">
+
         <div class="row mb-4">
           <div class="col-md-6 mb-2">
             <div class="md-form mb-0">
@@ -46,7 +50,7 @@
           </div>
         </div>
 
-
+      </form>
  
 
       <div class="text-center text-md-left mt-4">
@@ -72,7 +76,7 @@
        
        
           
-          <a target="_blank" href="https://www.linkedin.com/in/pinda-fortuin"><i id="icon"
+          <a target="_blank" href="https://www.linkedin.com/in/pinda-fortuin-0a4043180/"><i id="icon"
               class="bi bi-linkedin mx-2" ></i></a>
 
           <a target="_blank" href="https://github.com/fortuinp"><i id="icon" class="bi bi-github mx-2"></i></a>
