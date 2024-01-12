@@ -9,7 +9,7 @@
     </div>
     <div class="row mt-2 mb-2 mx-auto">
       <li>
-              <a target="_blank" href="https://www.linkedin.com/in/pinda-fortuin" ><i id="icon"
+              <a target="_blank" href="https://www.linkedin.com/in/pinda-fortuin-0a4043180/" ><i id="icon"
                   class="bi bi-linkedin mx-2"></i></a>
               <a target="_blank" href="https://github.com/fortuinp"><i id="icon" class="bi bi-github"></i></a>
 
