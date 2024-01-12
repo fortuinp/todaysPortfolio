@@ -1,7 +1,7 @@
 <template>
    <div class="projects mb-3">
     <div class="col">
-     <div class="row w-75 mx-auto"  id="roow">
+     <div class="row w-75 mx-auto"  v-if="Projects" id="roow">
       <div class="card mt-3 pt-3 " style="width: 18rem;" v-for="projects in Projects" :key="projects"> 
         <img :src=" projects.image" class="card-img-top" loading="lazy" alt="...">
         <div class="card-body">
@@ -11,12 +11,19 @@
         </div>
        </div>
      </div>
+     <div class="row" v-else>
+      <Spinner />
+     </div>
     </div>
   </div>
 </template>
 
 <script>
+import Spinner from '../components/Spinner.vue'
     export default {
+      components :{
+        Spinner
+      },
       computed:{
         Projects(){
           return this.$store.state.projects

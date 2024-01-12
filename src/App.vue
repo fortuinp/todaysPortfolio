@@ -5,7 +5,7 @@
 
 
     <router-view/>
-   
+   <Spinner/>
   </main>
   <Footer />
 </template>

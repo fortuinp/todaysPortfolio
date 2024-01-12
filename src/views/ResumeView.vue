@@ -44,7 +44,12 @@
           <h2 id="title"  class="text-center">Skills</h2>
         </div>
         <div class="row">
-          <div class="card mx-auto" id="skillscard" style="width: 18rem;" v-for="skills in Skills" :key="skills" > 
+          <div class="card mx-auto mb-1 " id="skillscard" style="width: 18rem;" v-for="skills in Skills" :key="skills" > 
+            <img :src=" skills.html" class="card-img-top mx-auto  mb-1 mt-2" loading="lazy" alt="photo">
+            <img :src=" skills.css" class="card-img-top mx-auto  mb-1 mt-2" loading="lazy" alt="photo">
+            <img :src=" skills.js" class="card-img-top mx-auto mb-1 mt-2" loading="lazy" alt="photo">
+            <img :src=" skills.boot" class="card-img-top mx-auto  mb-1 mt-2" loading="lazy" alt="photo">
+            <img :src=" skills.vue" class="card-img-top mx-auto  mb-1 mt-2" loading="lazy" alt="photo">
           <div class="card-body">
             <h5 class="card-title">{{skills.title}}</h5>
             <p class="card-text">{{ skills.experience}}</p>
