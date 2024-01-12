@@ -1,8 +1,8 @@
 <template>
   
      <div class="resume ">
-      <div class="row mb-4 pb-4 ">
-     <div class="col-4 ">
+      <div class="row mb-4 pb-4 " id="resume">
+     <div class="col ">
         <div class="row">
           <h2 id="title">Education</h2>
         </div>
@@ -21,7 +21,7 @@
 
     </div>
 
-      <div class="col-4">
+      <div class="col">
          <div class="row">
             <h2 id="title">Experience</h2>
          </div>
@@ -39,7 +39,7 @@
 
 
 
-      <div class="col-4">
+      <div class="col">
         <div class="row mb-2">
           <h2 id="title"  class="text-center">Skills</h2>
         </div>

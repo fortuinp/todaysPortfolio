@@ -1,0 +1,140 @@
+{
+    "experience": [
+        {
+            "title": "Student Front Desk Assistant",
+            "year":"2022",
+            "description":"Assist with the provision of security and access control.Complete various administrative duties.Attend to general enquires of students and guests and provide information where necessary",
+            "color": "rgb(57, 153, 0)"
+        },
+        {
+            "title": "Commerce Faculty, UCT Data Capturer",
+            "year":"2021/2022",
+            "description":" worked under pressure to meet tight registration deadlines, compiled and captured the registration information of students onto the UCT system, oversaw and ensured it was captured correctly",
+            "color": "rgb(157, 100, 0)"
+        },
+        {
+            "title": "Dell Young Leaders, UCT Student Caller",
+            "year":"2020/2021",
+            "description":"Responsible for calling First Year students, who are potential Dell Young Leaders to apply for the 2021/2022 bursary and provided them with information they needed about the bursary",
+            "color": "rgb(153, 76, 150)"
+        }
+      
+    ],
+    "about": [
+       " Hi, I am Pinda Fortuin an apiring full-stack developer web developer.I enjoy problem solving and i am passionate about creating captivate websites.",
+       " My interest for web development came from my love of turning ideas into functional websites.I am enjoying every minute of what I am doing and can not wait to reach greater heights of this journey."
+    ],
+    "education": [
+        {
+            
+            "year": "2023- Present",
+            "description": "Web development certificate",
+            "place": "Life Choices Academy",
+            "image":"https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSRq-BOkow2GoUBuuvH7-AvsqGeeEjDHVA3WZa_NbVEzqvwqSDk5KIJjXCj5_Oc8ClfyxCkBPAUhuWbqwAFIrdeRQ4-mw=w600-h2176"
+  
+        },
+        {
+         
+            "year": "2018-2022",
+            "description": "Bcom Accounting Degree",
+            "place": "University of Cape Town",
+            "image":"https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSRq-BOkow2GoUBuuvH7-AvsqGeeEjDHVA3WZa_NbVEzqvwqSDk5KIJjXCj5_Oc8ClfyxCkBPAUhuWbqwAFIrdeRQ4-mw=w600-h2176"
+  
+        },
+        {
+           
+            "year": "2017",
+            "description": "Obtained Matric certificate",
+            "place": "Centre of Science and Technology",
+            "image":"https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSRq-BOkow2GoUBuuvH7-AvsqGeeEjDHVA3WZa_NbVEzqvwqSDk5KIJjXCj5_Oc8ClfyxCkBPAUhuWbqwAFIrdeRQ4-mw=w600-h2176"
+            
+        }
+        
+        
+    ],
+    "skills": [
+        {
+            "title": "Web Development",
+            "experience": "I have built projects using the following technologies: HTML, CSS, Bootstrap, and Javascript."
+        }
+      
+    ],
+    "testimonials": [
+        {
+            "fullname": "Sivuyisiwe Peter,Peer",
+            "quotes": "Pinda is a very passionate person especially when it comes to web development, her adaptability and quick learning skills really inspires me and if a client had to hire her I believe she would deliver",
+            "profile":"https://lh3.google.com/u/0/d/15pohVdEZgqKU6fFt9f0dKFw3YPUkhYSA=w2000-h7252-iv2"
+        },
+        {
+            "fullname": "Joel Mukanya,Lecturer",
+            "quotes": 
+            "Pinda is a creative, goal-getter, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
+            "profile": "https://lh3.google.com/u/0/d/1ruget0CvOzaDt81RSfrh6gxU0m-CWAcS=w288-h216-p-k-nu-iv1"
+        },
+        {
+            "fullname": "Luqmaan Toffey, Peer",
+            "quotes": "When I met Pinda, immediately it became apparent that she has a history with computers. In the short span of 3 days, she unknowingly took me to heights I never knew existed.",
+            "profile": "https://lh3.googleusercontent.com/fife/AGXqzDkez9u1ILEm8IgsabkT9tof-qbqnPoN32pHzwFAZP6AxxvDKQz8lNV6gbQ4DxvGMIvUFRuEBJxz1dmmEG0lUzZDzcM3KS2P5vPakH0xLGCpHv-yGZEWQxTmKBCGmJhZCTwcoGxyZPxZVGrgCbbJOhj1ojd5-0oOhiObluaxaOHppMrrTYnuc6DTJknOHGkfM_I2s6q8psmol90PIaAKkQmrzXxmyK5HR04YnOa_rLesbg_gyUmEkIqvIgLTfZXj-2EsqSHvRoA_WdgucCQnehNJiKUhd3s-dzzeNzKbyh2tQZG-h5ftG9oq31z9VG1H-RK9NF05_NSF6AlaZVPD77FtsdQ6qAfXg_NKhObzdfzEcQwBaw9QEwa7Chqoeqw-vkrJLxMpZABu4ydXJhslSsCfaxcahVYX4dPbtRyUT4_Zw2gmecPB_Ko0hzqD6wIOZMZvfKvtS7c8Sk9V8GRqwXcL5pjCkLQ5tB1X6CxwBW0eWBfCdhlb-Rmsm9IBPstlNXy3KQxKuaICF29kEeBOzytRSzdK2fTcz3Ai-_42y8v2M43csn30dd7oPbwAkDoil0EUkLLMPvF_rmzkOhmHhqPtLZeaxwMcYutq5Sfrc_uXraAd0ZCNvwZrt0ETNyFWP9TQelgSjYAeXiQ77OpSrdwxCFzxjENR7UBc_7FUnBP8AzG3ZSJrfz5uuWHZFLytSMQICquNRDj5pBNdiJ-1SyMAsW4WE8UeOqME5qs5PwE0KWjYJLwlEzY2FPMpncEimVv3xKU6Ail6Skeysvs3PZCaBlIjY7mvilxBxbtnpyvIV2i4u1FF2X_kZBN4VZjj4ZkOdTyvYKyDBKnMKNlPAM7KY0aGoymPHZ9w7P0Jb1N00BKU6zDN8MZwnApTsoB43CB0jbbvWE_q-sKD3CM5CUVxbYEo5fcaFXoovTFazl3h0VrwPwDSgn9_xRaj-79A3IDkhvwgURPIHGGcPmaOpWTj7fzZqdCXC5yDY9XfmUj40L6FzR7B5bwC8Ua2KNoB9nil6FQE2dProeI1utsKi7rxVFOWnd_hkf9fbn7ZSZSbJfGiReZ1wUfI4sUAJBDLnErqE0EPz-t0Gc6xxUBj_Qk_sf8t7N8esc0DprS447QJJ4B-lkW7w6NntZyZPkKFcpuna0uv6YsSDSlZCcVq_YhRdQEjJKZ220GhaxlO6Fn_cz5ZZGBiWipHVFo4fuJNQ5Qu1q2Jb4Pzw_UmaaCqCWYIdLu71yNEDyE5z4-duR4PnnW4P2YK1Mh1QRIaej2X5u0rW5ivCK8m88l-G6cfNXBOyLtUpGGk1_wnHEESOdNgzZncRkF0TENLuCcaIXs6hKK3JfpzzJvhHC3dIvEWmCKo9FXKiIcJLvbgCUXO3sCu1XbrF4xY9JS31ZIovUsK_CyKhwRME1rVBhNmvD8VZmBKyu_XRQG_4BcXrpH8biqJg9n-_WRxamnaTbRHHfPtcNI5lxLi7XT6mswK5SZvPA2pBOQscwAEdnCZHs77EhyFeHazkgSssjU=w288-h216-p-k-nu"
+        },
+        {
+            "fullname": "Onika Sileku, Peer",
+            "quotes": "Pinda's innovative approach to tasks and a sharp focus on functionality are truly commendable. Her dedication and prowess as a web developer are unmistakable, and I am confident that she will excel in any path she pursues.",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTI1qWB_30f5Vlk7eHk9iFXi5V4KedJxCcRQc0Jb6ktJUo9X99DO0tVokuoT-yQ9Ws-qp_iwdApKHJq3yXA-v-G6lgkqg=w1960-h7108"
+        },
+        {
+            "fullname": "Jodie Smith, Peer",
+            "quotes":"Pinda Fortuin is an extraordinary Fullstack developer whose technical prowess is matched only by her unwavering dedication to excellence. Her ability to seamlessly navigate complex coding challenges and deliver elegant solutions is truly commendable. Beyond his technical brilliance, Pinda's collaborative spirit and infectious enthusiasm makes her not just a valued colleague but also a cherished friend in the world of software development. ",
+            "profile": "https://lh3.google.com/u/0/d/1i-mFq6uH5KFE_RDyS61_TSBfFqJdE3kO=w288-h216-p-k-nu-iv2"
+        },
+        {
+            "fullname": "Rethabile Makaotsi, Peer",
+            "quotes":"Pinda Fortuin is an extraordinary Fullstack developer whose technical prowess is matched only by her unwavering dedication to excellence. Her ability to seamlessly navigate complex coding challenges and deliver elegant solutions is truly commendable. Beyond his technical brilliance, Pinda's collaborative spirit and infectious enthusiasm makes her not just a valued colleague but also a cherished friend in the world of software development. ",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRsDXGl76nGqgs3Rc3H57kjE8lVI8fXVK8pizMlsWEE_Xv8-hRotx9Vzpb5A0vy54uCcTMzVhfKN8CDsb4GXQiwkJH-=w600-h2156"
+        }
+        
+    ],
+    "projects":[
+        {
+            "name": "Calculator",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
+            "gitHub": "https://fortuinp.github.io/calculator/",
+            "netlify": "https://incredible-lolly-8b4cdc.netlify.app/"
+        },
+        {
+            "name": "Keyboard",
+            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
+            "gitHub": "https://https://fortuinp.github.io/keyboard/",
+            "netlify": "https://dainty-zuccutto-6bc8df.netlify.app/"
+        },
+        {
+            "name": "Poster",
+            "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
+            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
+            "gitHub": "https://fortuinp.github.io/bootstrapexercise/",
+            "netlify": "https://dapper-smakager-a81ff4.netlify.app/"
+        },
+        {
+            "name": "Mobicare",
+            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "gitHub": "https://fortuinp.github.io/mobicare//",
+            "netlify": "https://fantastic-profiterole-293b01.netlify.app//"
+        },
+        {
+            "name": "ecommerce",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://fortuinp.github.io/ecommerce/",
+            "netlify": "https://starlit-tartufo-19a30e.netlify.app/"
+        },
+        {
+            "name": "ecommerce",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://fortuinp.github.io/ecommerce/",
+            "netlify": "https://starlit-tartufo-19a30e.netlify.app/"
+        }
+    ]
+}
