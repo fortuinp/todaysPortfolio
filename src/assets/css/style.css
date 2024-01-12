@@ -38,3 +38,36 @@
     width: 5rem;
     aspect-ratio: 1/1;
   }
+
+  @media screen and (width=300px){
+  #aboutpic{
+    /* z-index: 0; */
+    /* height: 10rem;  */
+    padding-right: 5rem; 
+    padding-left: 0rem;
+    justify-content: center;
+    margin-bottom: 2rem; 
+    /* padding-left: 300px; */
+    
+  }
+  #overlappa{
+     text-align:center ;
+     justify-content: center;
+  }
+  #abttitle{
+    font-size:2rem ;
+  }
+  #para{
+    padding-left: 1rem;
+  }
+  }
+  @media screen and (width=720px){
+    #resume{
+     display: flex;
+    }
+  }
+  @media screen and (width =1000px){
+    #resume{
+     display: flex;
+    }
+  }

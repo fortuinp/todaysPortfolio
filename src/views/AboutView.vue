@@ -1,7 +1,7 @@
 <template>
   <div class="about vh-100">
     <div class="row mb-4">
-      <h2 class="mb-4">About me</h2>
+      <h2 class="mb-4" id="abttitle">About me</h2>
     </div> 
    
 
@@ -9,8 +9,8 @@
    {{  ab  }}
    </p> -->
    <div class="row mt-4">
-      <div class="col-6 overlappa text-end mt-4">
-         <img src="https://lh3.google.com/u/0/d/1_ZQ3B_RSboy2RQZnBF0cIlyZDV-6x09A=w2000-h7184-iv2" loading="lazy" alt="about" >
+      <div class="col-6 overlappa text-end mt-4" id="overlappa">
+         <img src="https://lh3.google.com/u/0/d/1_ZQ3B_RSboy2RQZnBF0cIlyZDV-6x09A=w2000-h7184-iv2" id="aboutpic" loading="lazy" alt="about" >
          
       </div>
       <div class="col-6 para my-auto" id="para">

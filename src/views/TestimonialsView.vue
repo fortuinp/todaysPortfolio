@@ -1,5 +1,6 @@
 <template>
     <div class="testmonials mb-3 ">
+      
       <div class="col">
      <div class="row w-75 mx-auto">
       <div class="card mt-3 pt-3 mx-auto" style="width: 18rem;" v-for="testimonials in Testimonials" :key="testimonials"> 
