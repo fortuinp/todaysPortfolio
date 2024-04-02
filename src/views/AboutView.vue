@@ -1,8 +1,8 @@
 <template>
   <div class="about vh-100">
-    <div class="row mb-4">
+    <!-- <div class="row mb-4">
       <h2 class="mb-4" id="abttitle">About me</h2>
-    </div> 
+    </div>  -->
    
 
    <!-- <p v-for="ab in getAbout" :key="ab"> 
@@ -10,11 +10,12 @@
    </p> -->
    <div class="row mt-4">
       <div class="col-6 overlappa text-end mt-4" id="overlappa">
-         <img src="https://lh3.google.com/u/0/d/1_ZQ3B_RSboy2RQZnBF0cIlyZDV-6x09A=w2000-h7184-iv2" id="aboutpic" loading="lazy" alt="about" >
+         <img src="https://i.ibb.co/qFbQyGT/res.jpg" id="aboutpic" loading="lazy" alt="about" >
          
       </div>
       <div class="col-6 para my-auto" id="para">
         <div class="row px-4 mt-4">
+          <h2 class="mb-4" id="abttitle">About me</h2>
         <p class="">
           Hi, I am Pinda Fortuin an apiring full-stack developer web developer.
           I enjoy problem solving and i am passionate about creating captivate websites.</p>
@@ -53,15 +54,15 @@
 
 <style scoped>
 img[alt='about']{
-    width: 16rem;
-    height:20rem;
+    width: 20rem;
+    height:24rem;
  
     
    
   }
   #para{
-    background-color: #A5856C;
-    height: 24rem;
+    background-color:#A5856C  ;
+    height: 28rem;
     width:20rem;
     margin-left: 0;
   }
@@ -70,9 +71,10 @@ img[alt='about']{
     font-size: 1rem;
   }
   h2{
-    color: #A5856C;
+    /* color: #c56b6b; */
+    color:linear-gradient(109.6deg, rgb(0, 0, 0) 11.2%, rgb(11, 132, 145) 91.1%); ;
     font-weight: bolder;
-    font-size: 3rem;
+    /* font-size: 3rem; */
   }
   .overlappa{
     padding-left: 35%;
