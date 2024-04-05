@@ -1,7 +1,7 @@
 <template>
   <div class="home vh-100 mt-5">
     <div class="row">
-        <img src="https://i.ibb.co/wJ9dWj9/picc.jpg" loading="lazy" alt="picture" class="mx-auto mb-5 rounded-circle" >
+        <img src="https://i.ibb.co/qFbQyGT/res.jpg" loading="lazy" alt="picture" class="mx-auto mb-5 rounded-circle" >
     </div>
     <div class="row">
         <h1 class="animate__animated animate__slideInLeft">Pinda Fortuin</h1>
@@ -47,7 +47,6 @@ mounted(){
 <style scoped>
 img[alt='picture']{
     width: 15rem;
-    height: 13rem;
     aspect-ratio: 1/1;
     justify-content: center;
    
